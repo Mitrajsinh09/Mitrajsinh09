@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Django, Data Science**
 
-- 👨‍💻 All of my projects are available at [portfolio-black-pi-xoxuaoh6sz.vercel.app](portfolio-black-pi-xoxuaoh6sz.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-black-pi-xoxuaoh6sz.vercel.app](https://portfolio-black-pi-xoxuaoh6sz.vercel.app/)
 
 - 📫 How to reach me **gohilmitrajsinhr4590@gmail.com**
 
